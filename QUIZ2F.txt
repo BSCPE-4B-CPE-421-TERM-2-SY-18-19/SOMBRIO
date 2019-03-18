@@ -1,0 +1,9 @@
+Justain Avhygail Sombrio BSCPE 4B
+QUIZ 2F
+
+RASPBERRY PI
+
+	The Raspberry Pi’s red LED was steady, it indicated that the microcomputer was receiving power from the power supply. 
+There is a green blinking LED that also indicated that an operating system was installed. The OS booted smoothly. There were no
+problems found with the mouse and keyboard connected in the microcomputer. All the cables are functional and are connected 
+properly which makes the microcomputer runs without error. 

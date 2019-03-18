@@ -1,0 +1,16 @@
+Justain Avhygail Sombrio BSCPE 4B
+QUIZ 1F
+
+ASUS PC
+
+OBSERVATION:
+	The system unit is not turning on but the LED is. CPU fan and chassis fan are working but after a few seconds, it stopped.
+The unit is covered with dust but the RAM looks clean. The capacitor in the power supply unit is bloated and the fuse is blown.
+
+POSSIBLE PROBLEM:
+	The power supply unit might be a problem because the unit does not boot completely.
+
+POSSIBLE SOLUTIONS:
+	Clean the whole power supply unit and system unit.
+	Check all the connections in the motherboard and hard drive.
+	If possible, try replacing the blown components in the PSU or try another PSU that is compatible with the system unit.
