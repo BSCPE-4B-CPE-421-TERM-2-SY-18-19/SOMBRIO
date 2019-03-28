@@ -1,0 +1,44 @@
+	Troubleshooting of Computer Systems was one of the subjects I really looked forward when I was in my early years of being a Computer Engineering student 
+to take. What I was thinking is that if I cannot find or fix a simple problem in a computer, I could not be proud of myself being in this course. There are numerous
+problems that we can encounter in our computer. That problem could be in the hardware or software. Though I knew some of the possible solutions to a computer problem,
+which I gained from my high school teacher, I still thought it wasn't enough. At times when I have a problem on my laptop, I always rely on the internet. 
+I felt shame when I have to go to a repair shop for consulting and letting the technician repairs my laptop. Knowing from myself that I am a CpE student, I should 
+know how to deal with it, or even just the basics at least. That’s why, I really try to find a solution from online tutorials, which helped me most of the time. 
+Though it is risky to apply what I have watched or read on some websites, I have the attitude of being so eager to do it, which leads me sometimes in losing my 
+files or making the problems worse. But I kind of did not regret it anyway, well a little, I knew I could learn from my mistakes. With that, I felt like I have more 
+things to learn and skills to acquire in troubleshooting. 
+
+	I set my expectations really high for this subject. That's why, as the semester started I was really agitated to attend my classes. We were being paired for a 
+reporting. My partner and I were tasked to search about the topic assigned to us which is the Hard disk drive (HDD). After researching, we obtained details like what 
+is a Hard disk drive, its history, types, parts, maintenance, and troubleshooting, and we created our presentation. After which, we presented what we got. I thought 
+this subject would be as easy as opening my mouth waiting for a spoon being fed from someone and the only thing I need to worry is how to utilize what I take, but it 
+was not. We still have to feed ourselves from our own hands while guided with an instructor. We also have to digest what other reporters try to teach us from the 
+topics they also looked and studied for.
+
+	Our written exams were on point. I was glad it was in an essay type for answering the questions in how to troubleshoot some of the computer parts. I tried to 
+answer even though what I knew was just a few, which I learned from the reporting and what I read on the hand-outs given. We had a group activity also, the class was 
+divided into two. As I observed, not everyone was having an interest in getting their selves involved in the activity. Most were just waiting for what the others 
+would give. I think for an activity, in order for everyone to be involved, a group should consist of fewer members. In that sense, the group could have discussed well 
+and learned from each other. In order to be productive, I also believe, there must be a goal to be set for every activity. In which the instructor should assess if 
+everyone is gaining knowledge. After all, even I as a student in this subject keeps on thinking about what have I contributed. I think I don’t have anything great to 
+be proud of.
+
+	Like what an American philosopher John Dewey expounded, the theory of education “Learning by doing”. He theorized that learning should be relevant and 
+practical, not just passive and theoretical. This semester is ending but still, what I gained from this subject was not what I expected. There are factors which 
+influence learning. This could include, the learning environment, the instructor, the curriculum, the resources or materials, the time and most important is the 
+student’s ability and readiness to learn. Since during Fridays we don’t have a classroom to use, it really lessens the opportunity for us to learn and wastes a time 
+that we could have done some activities. The instructor’s method also was more on theory rather than putting our hands on the computer. Maybe if given enough time we 
+could have done better. Also if we had enough resources, it would be a great opportunity for us to learn. I have noticed also during classes, not everyone is paying 
+their attention to the instructor. Most are having their own world in the classroom instead of listening which makes it even hard for some to keep their focus on. 
+
+	Still, I am grateful to our instructor even if for a short period of time he assigned us something to work and at least we can gain something from it. 
+If I were also him, I think I will really find it hard dealing with the students and trying to utilize the time left for the semester. Even if it turned to be the 
+opposite of what I expected, I was thinking that there is a lesson we have to get from it. That we also as a student doesn’t need to lean to our subject instructor 
+to learn the things we were expecting. 
+
+	Moreover, studying is a lifelong process. If we badly need to learn something, we should pair it up with action. We might pass this subject but it doesn’t 
+end there. As a Computer engineering student, I think we should have the trait of being enthusiastic in learning troubleshooting even after passing. What we have 
+learned yesterday may or may not be enough for today, and it may even be no longer right. With emerging technology, some solutions to a computer problem could not be 
+applied to some unit. But also with the help of the internet, most of the problems and solutions could be found on the trusted search engines. We just need to be 
+wiser in applying our learnings.
+
